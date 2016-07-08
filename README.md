@@ -5,7 +5,7 @@ date: "July 8, 2016"
 output: html_document
 ---
 
-# depuracionDatosBEM2015
-Procedimiento de limpieza de datos desde la base cruda del sistema BEM
+# Paso 1. Obtener los Outliers del precio de venta
 
-# obtener el 
+## Obtener la base de datos en Crudo del sistema BEM 
+lin de descarga [aqui](https://github.com/luizvargaz/depuracionDatosBEM2015/blob/master/EXPORTAR%20oi%202015%20com.xlsx)
