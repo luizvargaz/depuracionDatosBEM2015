@@ -19,5 +19,3 @@ Nombre de la variable | Formula
 * Estado    =VLOOKUP(Z2,'04_parcelas'!A:I,7,FALSE)	
 * Año     =VLOOKUP(A2,'01_caracteristicas Bitácora'!A:D,4,FALSE)	
 * Ciclo     =VLOOKUP(A2,'01_caracteristicas Bitácora'!A:F,6,FALSE)
-
-
